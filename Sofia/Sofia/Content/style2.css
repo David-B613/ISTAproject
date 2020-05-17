@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+Body
+{
+  background-color:#e6e6e6;
+  margin: 0;
+  padding:0;
+  }
+
+
+#container
+{
+  border-radius: 20px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#header
+{
+  background-color:#707070;
+  color: white;
+  text-align: center;
+  border-radius: 25px;
+  margin-top: 20px;
+
+
+}
+#conent
+{
+  padding: 10px;
+}
+#nav
+{
+  width: 180x;
+  float: left;
+}
+#nav ul
+{
+  list-style-type: none;
+  padding: 0;
+}
+
+{
+  font-weight: bold;
+}
+
+#main
+{
+  width: 600px;
+  float: right;
+}
+
+#Ball1
+{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+
+
+  background-color: black;
+  color: white;
+  text-align: center;
+  clear: both;
+  padding:10px
+
+
+}
+#Ball2
+{
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  float:Right;
+
+
+  background-color: black;
+  color: white;
+  text-align: right;
+  clear: both;
+  padding:10px
+
+
+}
+#Ball3
+{
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  clear: both;
+
+
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding:10px
+}
+
+#Ball4
+{
+  border-radius: 100%;
+  width:25px;
+  height:25px;
+
+
+  clear: both;
+  float: right;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding:10px
+
+}
+h1
+{
+  margin: 0;
+}
